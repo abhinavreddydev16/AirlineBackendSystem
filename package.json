@@ -1,0 +1,31 @@
+{
+  "name": "airlinebackendsystem",
+  "version": "1.0.0",
+  "description": "this replicates how general airline backend systems work.",
+  "keywords": [
+    "Airlinebackendsystem",
+    "node",
+    "js",
+    "express"
+  ],
+  "homepage": "https://github.com/abhinavreddydev16/AirlineBackendSystem#readme",
+  "bugs": {
+    "url": "https://github.com/abhinavreddydev16/AirlineBackendSystem/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavreddydev16/AirlineBackendSystem.git"
+  },
+  "license": "ISC",
+  "author": "Abhinav Reddy Bokka",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "http-status-codes": "^2.3.0"
+  }
+}
